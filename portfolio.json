@@ -1,0 +1,10 @@
+{
+  "categoria": "Documentación",
+  "icono": "📄",
+  "etiquetas": ["terminal", "linux", "windows", "guía", "comandos"],
+  "descripcion": "Guía de uso de terminal y comandos básicos para entornos Linux y Windows.",
+  "demo": "",
+  "destacado": false,
+  "orden": 30,
+  "ocultar": false
+}
