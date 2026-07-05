@@ -23,20 +23,45 @@ Este repositorio nace como una referencia cómoda, práctica y pedagógica para 
 | Nivel | Objetivo | Documentos |
 |---|---|---|
 | 0. Base | Entender la terminal, rutas, argumentos, tuberías y redirecciones | [`docs/00-hoja-ruta.md`](docs/00-hoja-ruta.md), [`docs/01-terminal-y-comandos.md`](docs/01-terminal-y-comandos.md) |
-| 1. Administración básica | Archivos, usuarios, permisos, procesos y servicios | Próximamente |
-| 2. Redes y servicios | IP, DNS, DHCP, HTTP, SSH, FTP, correo, firewall | Próximamente |
-| 3. Scripting | Bash, PowerShell y Python para automatizar tareas | [`docs/02-fundamentos-scripting.md`](docs/02-fundamentos-scripting.md) |
-| 4. ASIR avanzado | bases de datos, aplicaciones web, seguridad, alta disponibilidad | [`docs/00-hoja-ruta.md`](docs/00-hoja-ruta.md) |
-| 5. Profesional | monitorización, hardening, backups, despliegue, Git, Docker, documentación | Próximamente |
+| 1. Administración básica | Archivos, usuarios, permisos, procesos y servicios | [`docs/03-linux-administracion.md`](docs/03-linux-administracion.md), [`docs/04-windows-cmd-powershell.md`](docs/04-windows-cmd-powershell.md), [`docs/06-usuarios-permisos.md`](docs/06-usuarios-permisos.md), [`docs/07-procesos-servicios-logs.md`](docs/07-procesos-servicios-logs.md) |
+| 2. Redes y servicios | IP, DNS, puertos, SSH, HTTP, firewall y diagnóstico | [`docs/05-redes-servicios.md`](docs/05-redes-servicios.md) |
+| 3. Scripting | Bash, PowerShell y Python para automatizar tareas | [`docs/02-fundamentos-scripting.md`](docs/02-fundamentos-scripting.md), [`recursos/plantillas-scripts.md`](recursos/plantillas-scripts.md) |
+| 4. ASIR avanzado | Bases de datos, aplicaciones web, seguridad, backups y alta disponibilidad | [`docs/08-backups-almacenamiento.md`](docs/08-backups-almacenamiento.md), [`docs/09-seguridad-hardening.md`](docs/09-seguridad-hardening.md), [`docs/10-bases-datos.md`](docs/10-bases-datos.md) |
+| 5. Profesional | Monitorización, hardening, despliegue, Git, Docker, documentación y proyectos | [`docs/12-automatizacion-profesional.md`](docs/12-automatizacion-profesional.md), [`docs/13-proyectos-practicos.md`](docs/13-proyectos-practicos.md) |
 
 ---
 
-## Primeros documentos
+## Documentos principales
 
 - [`docs/00-hoja-ruta.md`](docs/00-hoja-ruta.md): mapa completo para no dejar temas importantes fuera.
 - [`docs/01-terminal-y-comandos.md`](docs/01-terminal-y-comandos.md): fundamentos de terminal, ayuda, sintaxis, rutas, tuberías y comandos base.
 - [`docs/02-fundamentos-scripting.md`](docs/02-fundamentos-scripting.md): cómo se piensa y estructura un script útil.
-- [`recursos/checklist-guia.md`](recursos/checklist-guia.md): checklist de contenidos que se irán completando.
+- [`docs/03-linux-administracion.md`](docs/03-linux-administracion.md): administración Linux desde terminal.
+- [`docs/04-windows-cmd-powershell.md`](docs/04-windows-cmd-powershell.md): administración Windows con CMD y PowerShell.
+- [`docs/05-redes-servicios.md`](docs/05-redes-servicios.md): diagnóstico de red, puertos, DNS, SSH y firewall.
+- [`docs/06-usuarios-permisos.md`](docs/06-usuarios-permisos.md): usuarios, grupos, permisos, sudo y ACL.
+- [`docs/07-procesos-servicios-logs.md`](docs/07-procesos-servicios-logs.md): procesos, servicios, eventos y logs.
+- [`docs/08-backups-almacenamiento.md`](docs/08-backups-almacenamiento.md): backups, restauración, almacenamiento y retención.
+- [`docs/09-seguridad-hardening.md`](docs/09-seguridad-hardening.md): seguridad defensiva y endurecimiento inicial.
+- [`docs/10-bases-datos.md`](docs/10-bases-datos.md): administración básica de bases de datos.
+- [`docs/12-automatizacion-profesional.md`](docs/12-automatizacion-profesional.md): automatización con criterios profesionales.
+- [`docs/13-proyectos-practicos.md`](docs/13-proyectos-practicos.md): proyectos para practicar y conectar con Script-Lab.
+
+---
+
+## Cheatsheets
+
+- [`cheatsheets/linux.md`](cheatsheets/linux.md)
+- [`cheatsheets/powershell.md`](cheatsheets/powershell.md)
+- [`cheatsheets/python.md`](cheatsheets/python.md)
+- [`cheatsheets/redes.md`](cheatsheets/redes.md)
+
+---
+
+## Recursos
+
+- [`recursos/checklist-guia.md`](recursos/checklist-guia.md): checklist de contenidos.
+- [`recursos/plantillas-scripts.md`](recursos/plantillas-scripts.md): plantillas iniciales para Bash, PowerShell y Python.
 
 ---
 
@@ -60,37 +85,20 @@ Cada tema debe intentar responder siempre a estas preguntas:
 Guia-Terminal-Linux-Windows/
 ├── README.md
 ├── docs/
-│   ├── 00-hoja-ruta.md
-│   ├── 01-terminal-y-comandos.md
-│   ├── 02-fundamentos-scripting.md
-│   ├── 03-linux-administracion.md
-│   ├── 04-windows-cmd-powershell.md
-│   ├── 05-redes-servicios.md
-│   ├── 06-usuarios-permisos.md
-│   ├── 07-procesos-servicios-logs.md
-│   ├── 08-backups-almacenamiento.md
-│   ├── 09-seguridad-hardening.md
-│   ├── 10-bases-datos.md
-│   ├── 11-aplicaciones-web.md
-│   ├── 12-automatizacion-profesional.md
-│   └── 13-proyectos-practicos.md
 ├── cheatsheets/
-│   ├── linux.md
-│   ├── windows-cmd.md
-│   ├── powershell.md
-│   ├── python.md
-│   ├── redes.md
-│   ├── git.md
-│   └── docker.md
 ├── scripts/
-│   ├── bash/
-│   ├── powershell/
-│   └── python/
 └── recursos/
-    ├── checklist-guia.md
-    ├── checklist-mantenimiento.md
-    └── glosario.md
 ```
+
+---
+
+## Pendiente próximo
+
+- Completar aplicaciones web en un formato aceptado por el conector.
+- Añadir Git y Docker.
+- Añadir monitorización profesional.
+- Añadir runbooks de incidencias.
+- Crear versiones ejecutables en Script-Lab.
 
 ---
 
