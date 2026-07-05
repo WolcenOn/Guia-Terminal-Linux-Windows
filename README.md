@@ -27,7 +27,7 @@ Este repositorio nace como una referencia cómoda, práctica y pedagógica para 
 | 2. Redes y servicios | IP, DNS, puertos, SSH, HTTP, firewall y diagnóstico | [`docs/05-redes-servicios.md`](docs/05-redes-servicios.md) |
 | 3. Scripting | Bash, PowerShell y Python para automatizar tareas | [`docs/02-fundamentos-scripting.md`](docs/02-fundamentos-scripting.md), [`recursos/plantillas-scripts.md`](recursos/plantillas-scripts.md) |
 | 4. ASIR avanzado | Bases de datos, seguridad, backups y alta disponibilidad | [`docs/08-backups-almacenamiento.md`](docs/08-backups-almacenamiento.md), [`docs/09-seguridad-hardening.md`](docs/09-seguridad-hardening.md), [`docs/10-bases-datos.md`](docs/10-bases-datos.md) |
-| 5. Profesional | Monitorización, hardening, despliegue, Git, Docker, documentación y proyectos | [`docs/12-automatizacion-profesional.md`](docs/12-automatizacion-profesional.md), [`docs/13-proyectos-practicos.md`](docs/13-proyectos-practicos.md), [`docs/14-git-github.md`](docs/14-git-github.md), [`docs/15-docker-contenedores.md`](docs/15-docker-contenedores.md), [`docs/16-monitorizacion.md`](docs/16-monitorizacion.md), [`docs/17-runbooks-incidencias.md`](docs/17-runbooks-incidencias.md) |
+| 5. Profesional | Monitorización, despliegue, Git, Docker, Ansible, documentación y proyectos | [`docs/12-automatizacion-profesional.md`](docs/12-automatizacion-profesional.md), [`docs/13-proyectos-practicos.md`](docs/13-proyectos-practicos.md), [`docs/14-git-github.md`](docs/14-git-github.md), [`docs/15-docker-contenedores.md`](docs/15-docker-contenedores.md), [`docs/16-monitorizacion.md`](docs/16-monitorizacion.md), [`docs/17-runbooks-incidencias.md`](docs/17-runbooks-incidencias.md), [`docs/18-ansible-iac.md`](docs/18-ansible-iac.md), [`docs/19-integracion-script-lab.md`](docs/19-integracion-script-lab.md) |
 
 ---
 
@@ -50,12 +50,15 @@ Este repositorio nace como una referencia cómoda, práctica y pedagógica para 
 - [`docs/15-docker-contenedores.md`](docs/15-docker-contenedores.md): contenedores, imágenes, volúmenes, redes y Compose.
 - [`docs/16-monitorizacion.md`](docs/16-monitorizacion.md): métricas, logs, alertas y observabilidad.
 - [`docs/17-runbooks-incidencias.md`](docs/17-runbooks-incidencias.md): procedimientos para diagnosticar y resolver incidencias.
+- [`docs/18-ansible-iac.md`](docs/18-ansible-iac.md): Ansible e infraestructura como código.
+- [`docs/19-integracion-script-lab.md`](docs/19-integracion-script-lab.md): conexión entre esta guía y Script-Lab.
 
 ---
 
 ## Cheatsheets
 
 - [`cheatsheets/linux.md`](cheatsheets/linux.md)
+- [`cheatsheets/windows-cmd.md`](cheatsheets/windows-cmd.md)
 - [`cheatsheets/powershell.md`](cheatsheets/powershell.md)
 - [`cheatsheets/python.md`](cheatsheets/python.md)
 - [`cheatsheets/redes.md`](cheatsheets/redes.md)
@@ -68,6 +71,7 @@ Este repositorio nace como una referencia cómoda, práctica y pedagógica para 
 
 - [`recursos/checklist-guia.md`](recursos/checklist-guia.md): checklist de contenidos.
 - [`recursos/checklist-mantenimiento.md`](recursos/checklist-mantenimiento.md): checklist periódico de revisión de sistemas.
+- [`recursos/ejercicios.md`](recursos/ejercicios.md): ejercicios progresivos por tema.
 - [`recursos/glosario.md`](recursos/glosario.md): glosario de conceptos.
 - [`recursos/plantillas-scripts.md`](recursos/plantillas-scripts.md): plantillas iniciales para Bash, PowerShell y Python.
 
@@ -103,10 +107,9 @@ Guia-Terminal-Linux-Windows/
 ## Pendiente próximo
 
 - Completar aplicaciones web en un formato aceptado por el conector.
-- Añadir Windows CMD como cheatsheet independiente.
-- Añadir guías de Ansible e infraestructura como código.
+- Añadir ejercicios resueltos.
 - Crear versiones ejecutables en Script-Lab.
-- Añadir ejercicios por tema.
+- Añadir proyecto final completo de mantenimiento.
 
 ---
 
