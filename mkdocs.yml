@@ -1,0 +1,78 @@
+site_name: Guía Terminal Linux & Windows
+site_description: Guía pedagógica de terminal, comandos y scripting para ASIR y administración profesional de sistemas.
+site_author: WolcenOn
+repo_url: https://github.com/WolcenOn/Guia-Terminal-Linux-Windows
+repo_name: WolcenOn/Guia-Terminal-Linux-Windows
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tabs
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+
+nav:
+  - Inicio: index.md
+  - Cómo usar la guía:
+      - Itinerarios: itinerarios.md
+      - Guía docente: guia-docente.md
+      - Actividades interactivas: actividades-interactivas.md
+  - Fundamentos:
+      - Hoja de ruta: 00-hoja-ruta.md
+      - Terminal y comandos: 01-terminal-y-comandos.md
+      - Fundamentos de scripting: 02-fundamentos-scripting.md
+  - Administración de sistemas:
+      - Linux: 03-linux-administracion.md
+      - Windows CMD y PowerShell: 04-windows-cmd-powershell.md
+      - Usuarios y permisos: 06-usuarios-permisos.md
+      - Procesos, servicios y logs: 07-procesos-servicios-logs.md
+      - Backups y almacenamiento: 08-backups-almacenamiento.md
+  - Redes y seguridad:
+      - Redes y servicios: 05-redes-servicios.md
+      - Seguridad y hardening: 09-seguridad-hardening.md
+      - Active Directory y LDAP: 20-active-directory-ldap.md
+  - ASIR avanzado:
+      - Bases de datos: 10-bases-datos.md
+      - Automatización profesional: 12-automatizacion-profesional.md
+      - Proyectos prácticos: 13-proyectos-practicos.md
+  - Nivel profesional:
+      - Git y GitHub: 14-git-github.md
+      - Docker y contenedores: 15-docker-contenedores.md
+      - Monitorización: 16-monitorizacion.md
+      - Runbooks e incidencias: 17-runbooks-incidencias.md
+      - Ansible e IaC: 18-ansible-iac.md
+      - Integración con Script-Lab: 19-integracion-script-lab.md
+  - Recursos:
+      - Ejercicios: ../recursos/ejercicios.md
+      - Ejercicios resueltos: ../recursos/ejercicios-resueltos.md
+      - Checklist de mantenimiento: ../recursos/checklist-mantenimiento.md
+      - Glosario: ../recursos/glosario.md
+      - Plantillas de scripts: ../recursos/plantillas-scripts.md
+      - Proyecto final: ../proyectos/proyecto-final-mantenimiento.md
