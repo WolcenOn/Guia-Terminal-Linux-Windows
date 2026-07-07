@@ -69,10 +69,6 @@ nav:
       - Runbooks e incidencias: 17-runbooks-incidencias.md
       - Ansible e IaC: 18-ansible-iac.md
       - Integración con Script-Lab: 19-integracion-script-lab.md
-  - Recursos:
-      - Ejercicios: ../recursos/ejercicios.md
-      - Ejercicios resueltos: ../recursos/ejercicios-resueltos.md
-      - Checklist de mantenimiento: ../recursos/checklist-mantenimiento.md
-      - Glosario: ../recursos/glosario.md
-      - Plantillas de scripts: ../recursos/plantillas-scripts.md
-      - Proyecto final: ../proyectos/proyecto-final-mantenimiento.md
+  - Recursos y práctica:
+      - Recursos de apoyo: recursos-web.md
+      - Proyecto final: proyecto-final-web.md
