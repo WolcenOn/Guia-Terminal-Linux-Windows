@@ -78,4 +78,9 @@ nav:
       - Integración con Script-Lab: 19-integracion-script-lab.md
   - Recursos y práctica:
       - Recursos de apoyo: recursos-web.md
+      - Ejercicios: recursos/ejercicios.md
+      - Ejercicios resueltos: recursos/ejercicios-resueltos.md
+      - Checklist de mantenimiento: recursos/checklist-mantenimiento.md
+      - Glosario: recursos/glosario.md
+      - Plantillas de scripts: recursos/plantillas-scripts.md
       - Proyecto final: proyecto-final-web.md
