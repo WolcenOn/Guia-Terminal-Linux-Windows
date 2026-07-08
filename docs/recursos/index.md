@@ -48,13 +48,13 @@ Esta sección reúne los recursos de apoyo para estudiar, practicar y documentar
 
     [Ver plantillas](plantillas-scripts.md)
 
--   :material-flask:{ .lg .middle } **Script-Lab**
+-   :material-flask:{ .lg .middle } **Abrir Script-Lab App**
 
     ---
 
-    Laboratorios realizables y entregas prácticas.
+    Accede a la aplicación web para realizar prácticas y generar scripts.
 
-    [Ir a Script-Lab](../script-lab.md)
+    [Abrir aplicación](https://wolcenon.github.io/Script-Lab/)
 
 </div>
 
@@ -64,4 +64,4 @@ Esta sección reúne los recursos de apoyo para estudiar, practicar y documentar
 
 !!! tip "Recomendación"
 
-    Usa los ejercicios para practicar, los checklists para verificar, las plantillas para estructurar automatizaciones y Script-Lab para realizar prácticas completas.
+    Usa los ejercicios para practicar, los checklists para verificar, las plantillas para estructurar automatizaciones y Script-Lab App para realizar prácticas completas.
