@@ -1,14 +1,14 @@
 # Recursos de la guía
 
-Esta página reúne los recursos de apoyo para estudiar, practicar y documentar.
+Esta página reúne los recursos de apoyo para estudiar, practicar y documentar dentro de la propia web.
 
 ---
 
 ## Ejercicios
 
-Actividades progresivas para practicar terminal, Linux, Windows, redes, usuarios, backups, seguridad, bases de datos, Git, Docker y monitorización.
+Actividades progresivas para practicar terminal, Linux, Windows, redes, usuarios, backups, seguridad, Git y monitorización.
 
-[Ver ejercicios en el repositorio](../recursos/ejercicios.md)
+[Ver ejercicios](recursos/ejercicios.md)
 
 ---
 
@@ -16,7 +16,7 @@ Actividades progresivas para practicar terminal, Linux, Windows, redes, usuarios
 
 Soluciones orientativas para los primeros ejercicios. Lo recomendable es intentar resolverlos antes de mirar la solución.
 
-[Ver ejercicios resueltos](../recursos/ejercicios-resueltos.md)
+[Ver ejercicios resueltos](recursos/ejercicios-resueltos.md)
 
 ---
 
@@ -24,7 +24,7 @@ Soluciones orientativas para los primeros ejercicios. Lo recomendable es intenta
 
 Lista de revisión periódica para sistemas Linux y Windows.
 
-[Ver checklist de mantenimiento](../recursos/checklist-mantenimiento.md)
+[Ver checklist de mantenimiento](recursos/checklist-mantenimiento.md)
 
 ---
 
@@ -32,15 +32,23 @@ Lista de revisión periódica para sistemas Linux y Windows.
 
 Definiciones breves de conceptos importantes: terminal, shell, proceso, servicio, DNS, firewall, Git, Docker y más.
 
-[Ver glosario](../recursos/glosario.md)
+[Ver glosario](recursos/glosario.md)
 
 ---
 
 ## Plantillas de scripts
 
-Modelos iniciales para Bash, PowerShell y Python.
+Modelos iniciales para estructurar automatizaciones en Bash, PowerShell y Python.
 
-[Ver plantillas](../recursos/plantillas-scripts.md)
+[Ver plantillas](recursos/plantillas-scripts.md)
+
+---
+
+## Script-Lab
+
+Laboratorios realizables y entregas prácticas.
+
+[Ir a Script-Lab](script-lab.md)
 
 ---
 
@@ -48,4 +56,4 @@ Modelos iniciales para Bash, PowerShell y Python.
 
 !!! tip "Recomendación"
 
-    Usa los ejercicios para practicar, los checklists para verificar y las plantillas para convertir comandos en scripts reutilizables.
+    Usa los ejercicios para practicar, los checklists para verificar, las plantillas para estructurar automatizaciones y Script-Lab para realizar prácticas completas.
