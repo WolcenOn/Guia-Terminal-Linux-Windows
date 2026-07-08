@@ -1,13 +1,22 @@
 # Script-Lab: laboratorio práctico
 
-Script-Lab es el repositorio complementario donde se realizan las prácticas de esta guía.
+Script-Lab es la aplicación web complementaria donde se realizan las prácticas de esta guía.
 
 - Guía web: teoría, explicación, búsqueda rápida, casos y retos.
-- Script-Lab: laboratorios realizables, entregas e informes.
+- Script-Lab: aplicación para practicar y generar scripts.
+- Repositorio de Script-Lab: código fuente y documentación del laboratorio.
 
-Repositorio:
+---
 
-https://github.com/WolcenOn/Script-Lab
+## Entrar a la aplicación
+
+!!! success "Abrir Script-Lab"
+
+    [Ir a la aplicación web de Script-Lab](https://wolcenon.github.io/Script-Lab/)
+
+Repositorio público:
+
+[Ver repositorio de Script-Lab](https://github.com/WolcenOn/Script-Lab)
 
 ---
 
@@ -15,13 +24,13 @@ https://github.com/WolcenOn/Script-Lab
 
 | Nivel | Laboratorio | Qué practicas |
 |---|---|---|
-| 1 | [Lab 01 - Terminal básica](https://github.com/WolcenOn/Script-Lab/blob/main/labs/01-terminal-basica/README.md) | Rutas, archivos, listado, búsqueda y redirección |
-| 2 | [Lab 02 - Linux administración](https://github.com/WolcenOn/Script-Lab/blob/main/labs/02-linux-administracion/README.md) | Sistema, memoria, disco, procesos, servicios y logs |
-| 3 | [Lab 03 - Windows PowerShell](https://github.com/WolcenOn/Script-Lab/blob/main/labs/03-windows-powershell/README.md) | Inventario, procesos, servicios, disco, red y eventos |
-| 4 | [Lab 04 - Redes](https://github.com/WolcenOn/Script-Lab/blob/main/labs/04-redes/README.md) | IP, gateway, DNS, puertos y diagnóstico |
-| 5 | [Lab 05 - Backups](https://github.com/WolcenOn/Script-Lab/blob/main/labs/05-backups/README.md) | Copia, verificación, restauración e informe |
-| 6 | [Lab 06 - Scripting](https://github.com/WolcenOn/Script-Lab/blob/main/labs/06-scripting/README.md) | Pasar de comandos manuales a automatización |
-| 7 | [Lab 07 - Proyecto final](https://github.com/WolcenOn/Script-Lab/blob/main/labs/07-proyecto-final/README.md) | Informe completo de mantenimiento |
+| 1 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Terminal básica: rutas, archivos, listado, búsqueda y redirección |
+| 2 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Linux: sistema, memoria, disco, procesos, servicios y logs |
+| 3 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Windows PowerShell: inventario, procesos, servicios, disco, red y eventos |
+| 4 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Redes: IP, gateway, DNS, puertos y diagnóstico |
+| 5 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Backups: copia, verificación, restauración e informe |
+| 6 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Scripting: pasar de comandos manuales a automatización |
+| 7 | [Abrir Script-Lab](https://wolcenon.github.io/Script-Lab/) | Proyecto final: informe completo de mantenimiento |
 
 ---
 
@@ -31,24 +40,25 @@ https://github.com/WolcenOn/Script-Lab
 
     1. Estudia el tema en esta web.
     2. Consulta la búsqueda rápida si necesitas comandos.
-    3. Realiza el laboratorio correspondiente en Script-Lab.
-    4. Guarda evidencias.
-    5. Entrega un informe.
-    6. Propón una mejora o automatización.
+    3. Entra en Script-Lab.
+    4. Selecciona el tipo de práctica o script.
+    5. Realiza el ejercicio.
+    6. Guarda evidencias o resultado.
+    7. Documenta conclusiones.
 
 ---
 
-## Correspondencia entre guía y laboratorios
+## Correspondencia entre guía y Script-Lab
 
-| Tema de la guía | Laboratorio recomendado |
+| Tema de la guía | Práctica recomendada |
 |---|---|
-| Terminal y comandos | Lab 01 |
-| Linux administración | Lab 02 |
-| Windows CMD y PowerShell | Lab 03 |
-| Redes y servicios | Lab 04 |
-| Backups y almacenamiento | Lab 05 |
-| Fundamentos de scripting | Lab 06 |
-| Monitorización y runbooks | Lab 07 |
+| Terminal y comandos | Terminal básica |
+| Linux administración | Inventario o revisión Linux |
+| Windows CMD y PowerShell | Inventario o revisión Windows |
+| Redes y servicios | Diagnóstico de red |
+| Backups y almacenamiento | Copia y verificación |
+| Fundamentos de scripting | Generación de scripts |
+| Monitorización y runbooks | Informe de mantenimiento |
 
 ---
 
@@ -56,10 +66,10 @@ https://github.com/WolcenOn/Script-Lab
 
 Cada práctica debería entregar:
 
-- Informe Markdown.
-- Comandos utilizados.
-- Respuestas a preguntas.
+- Objetivo.
+- Script o comandos generados.
 - Evidencias relevantes.
+- Resultado obtenido.
 - Conclusiones.
 - Mejora propuesta.
 
@@ -67,6 +77,4 @@ Cada práctica debería entregar:
 
 ## Siguiente paso
 
-Empieza por:
-
-[Lab 01 - Terminal básica](https://github.com/WolcenOn/Script-Lab/blob/main/labs/01-terminal-basica/README.md)
+[Entrar ahora a Script-Lab](https://wolcenon.github.io/Script-Lab/)
