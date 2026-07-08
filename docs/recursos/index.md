@@ -8,6 +8,14 @@ Esta sección reúne los recursos de apoyo para estudiar, practicar y documentar
 
 <div class="grid cards" markdown>
 
+-   :material-play-circle:{ .lg .middle } **Abrir ejercicios en Script-Lab**
+
+    ---
+
+    Acceso directo a cada práctica con enlaces seguros de un clic.
+
+    [Elegir ejercicio](../ejercicios-script-lab.md)
+
 -   :material-pencil:{ .lg .middle } **Ejercicios**
 
     ---
@@ -57,6 +65,20 @@ Esta sección reúne los recursos de apoyo para estudiar, practicar y documentar
     [Abrir aplicación](https://wolcenon.github.io/Script-Lab/)
 
 </div>
+
+---
+
+## Enlaces rápidos a prácticas
+
+| Práctica | Abrir |
+|---|---|
+| Terminal básica | [Lab 01](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-01-TERMINAL) |
+| Linux administración | [Lab 02](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-02-LINUX) |
+| Windows PowerShell | [Lab 03](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-03-WINDOWS) |
+| Redes | [Lab 04](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-04-REDES) |
+| Backups | [Lab 05](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-05-BACKUPS) |
+| Scripting | [Lab 06](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-06-SCRIPTING) |
+| Proyecto final | [Lab 07](https://wolcenon.github.io/Script-Lab/?exercise=GT-LAB-07-PROYECTO) |
 
 ---
 
