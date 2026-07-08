@@ -45,6 +45,11 @@ nav:
       - Guía docente: guia-docente.md
       - Actividades interactivas: actividades-interactivas.md
       - Publicar como web: publicacion-web.md
+  - Búsqueda y práctica:
+      - Búsqueda rápida de comandos: busqueda-rapida-comandos.md
+      - Casos prácticos guiados: casos-practicos.md
+      - Retos prácticos graduados: retos-practicos.md
+      - Ejemplos por escenario: ejemplos-por-escenario.md
   - Fundamentos:
       - Hoja de ruta: 00-hoja-ruta.md
       - Terminal y comandos: 01-terminal-y-comandos.md
