@@ -51,7 +51,8 @@ nav:
       - Casos prácticos guiados: casos-practicos.md
       - Retos prácticos graduados: retos-practicos.md
       - Ejemplos por escenario: ejemplos-por-escenario.md
-      - Script-Lab: script-lab.md
+      - Abrir Script-Lab App: https://wolcenon.github.io/Script-Lab/
+      - Cómo usar Script-Lab: script-lab.md
   - Fundamentos:
       - Hoja de ruta: 00-hoja-ruta.md
       - Terminal y comandos: 01-terminal-y-comandos.md
