@@ -1,6 +1,7 @@
 site_name: Guía Terminal Linux & Windows
 site_description: Guía pedagógica de terminal, comandos y scripting para ASIR y administración profesional de sistemas.
 site_author: WolcenOn
+site_url: https://wolcenon.github.io/Guia-Terminal-Linux-Windows/
 repo_url: https://github.com/WolcenOn/Guia-Terminal-Linux-Windows
 repo_name: WolcenOn/Guia-Terminal-Linux-Windows
 
@@ -77,7 +78,7 @@ nav:
       - Ansible e IaC: 18-ansible-iac.md
       - Integración con Script-Lab: 19-integracion-script-lab.md
   - Recursos y práctica:
-      - Recursos de apoyo: recursos-web.md
+      - Recursos de apoyo: recursos/index.md
       - Ejercicios: recursos/ejercicios.md
       - Ejercicios resueltos: recursos/ejercicios-resueltos.md
       - Checklist de mantenimiento: recursos/checklist-mantenimiento.md
