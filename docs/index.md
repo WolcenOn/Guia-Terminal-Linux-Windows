@@ -18,13 +18,13 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
     [Buscar comandos](busqueda-rapida-comandos.md)
 
--   :material-flask:{ .lg .middle } **Script-Lab**
+-   :material-flask:{ .lg .middle } **Abrir Script-Lab App**
 
     ---
 
-    Realiza laboratorios prácticos enlazados con la guía: terminal, Linux, Windows, redes, backups y proyecto final.
+    Entra directamente en la aplicación web para realizar prácticas y generar scripts.
 
-    [Ir a Script-Lab](script-lab.md)
+    [Abrir aplicación](https://wolcenon.github.io/Script-Lab/)
 
 -   :material-map:{ .lg .middle } **Ruta de aprendizaje**
 
@@ -66,12 +66,12 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
 | Nivel | Qué aprenderás | Enlaces |
 |---|---|---|
-| 0 | Terminal, rutas, ayuda, tuberías y redirecciones | [Terminal](01-terminal-y-comandos.md), [Búsqueda rápida](busqueda-rapida-comandos.md), [Lab 01](script-lab.md) |
-| 1 | Administración Linux y Windows | [Linux](03-linux-administracion.md), [Windows](04-windows-cmd-powershell.md), [Labs 02-03](script-lab.md) |
-| 2 | Redes, servicios, usuarios y permisos | [Redes](05-redes-servicios.md), [Usuarios](06-usuarios-permisos.md), [Casos prácticos](casos-practicos.md), [Lab 04](script-lab.md) |
-| 3 | Scripting con Bash, PowerShell y Python | [Scripting](02-fundamentos-scripting.md), [Retos](retos-practicos.md), [Lab 06](script-lab.md) |
-| 4 | Backups, seguridad, bases de datos y directorios | [Backups](08-backups-almacenamiento.md), [Seguridad](09-seguridad-hardening.md), [Bases de datos](10-bases-datos.md), [AD/LDAP](20-active-directory-ldap.md), [Lab 05](script-lab.md) |
-| 5 | Git, Docker, monitorización, runbooks y Ansible | [Git](14-git-github.md), [Docker](15-docker-contenedores.md), [Monitorización](16-monitorizacion.md), [Ansible](18-ansible-iac.md), [Lab 07](script-lab.md) |
+| 0 | Terminal, rutas, ayuda, tuberías y redirecciones | [Terminal](01-terminal-y-comandos.md), [Búsqueda rápida](busqueda-rapida-comandos.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
+| 1 | Administración Linux y Windows | [Linux](03-linux-administracion.md), [Windows](04-windows-cmd-powershell.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
+| 2 | Redes, servicios, usuarios y permisos | [Redes](05-redes-servicios.md), [Usuarios](06-usuarios-permisos.md), [Casos prácticos](casos-practicos.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
+| 3 | Scripting con Bash, PowerShell y Python | [Scripting](02-fundamentos-scripting.md), [Retos](retos-practicos.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
+| 4 | Backups, seguridad, bases de datos y directorios | [Backups](08-backups-almacenamiento.md), [Seguridad](09-seguridad-hardening.md), [Bases de datos](10-bases-datos.md), [AD/LDAP](20-active-directory-ldap.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
+| 5 | Git, Docker, monitorización, runbooks y Ansible | [Git](14-git-github.md), [Docker](15-docker-contenedores.md), [Monitorización](16-monitorizacion.md), [Ansible](18-ansible-iac.md), [Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
 
 ---
 
@@ -80,7 +80,7 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 | Si necesitas... | Ve a... |
 |---|---|
 | Encontrar rápido un comando | [Búsqueda rápida de comandos](busqueda-rapida-comandos.md) |
-| Realizar una práctica guiada | [Script-Lab](script-lab.md) |
+| Realizar una práctica guiada | [Abrir Script-Lab App](https://wolcenon.github.io/Script-Lab/) |
 | Resolver una incidencia guiada | [Casos prácticos](casos-practicos.md) |
 | Practicar por niveles | [Retos prácticos](retos-practicos.md) |
 | Saber qué estudiar según tu rol | [Ejemplos por escenario](ejemplos-por-escenario.md) |
@@ -95,9 +95,9 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
     1. Lee el objetivo del tema.
     2. Consulta la búsqueda rápida si necesitas comandos.
-    3. Realiza el laboratorio correspondiente en Script-Lab.
-    4. Guarda evidencias.
-    5. Convierte comandos repetitivos en una automatización.
+    3. Abre Script-Lab App.
+    4. Realiza la práctica correspondiente.
+    5. Guarda evidencias.
     6. Documenta el procedimiento.
 
 ---
@@ -112,7 +112,7 @@ La web usa elementos desplegables, avisos, checklists y bloques de código copia
 
 ??? question "¿Dónde practico los ejercicios completos?"
 
-    En Script-Lab. La guía explica y orienta; Script-Lab organiza laboratorios, evidencias e informes.
+    En la aplicación web de Script-Lab: https://wolcenon.github.io/Script-Lab/
 
 ---
 
