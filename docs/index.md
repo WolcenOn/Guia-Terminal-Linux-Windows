@@ -10,6 +10,14 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
 <div class="grid cards" markdown>
 
+-   :material-magnify:{ .lg .middle } **Búsqueda rápida de comandos**
+
+    ---
+
+    Encuentra comandos por tarea: disco, usuarios, red, servicios, logs, backup o procesos.
+
+    [Buscar comandos](busqueda-rapida-comandos.md)
+
 -   :material-map:{ .lg .middle } **Ruta de aprendizaje**
 
     ---
@@ -34,13 +42,21 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
     [Empezar fundamentos](01-terminal-y-comandos.md)
 
--   :material-code-braces:{ .lg .middle } **Scripting**
+-   :material-lightbulb-on:{ .lg .middle } **Casos prácticos**
 
     ---
 
-    Aprende a convertir comandos en scripts útiles.
+    Practica con situaciones reales: disco lleno, DNS, servicios caídos, usuarios y backups.
 
-    [Ver scripting](02-fundamentos-scripting.md)
+    [Ver casos prácticos](casos-practicos.md)
+
+-   :material-trophy:{ .lg .middle } **Retos graduados**
+
+    ---
+
+    Retos de nivel básico, administración, red, scripting y nivel profesional.
+
+    [Ver retos](retos-practicos.md)
 
 </div>
 
@@ -50,12 +66,25 @@ Esta documentación está pensada para aprender de forma progresiva: primero se 
 
 | Nivel | Qué aprenderás | Enlaces |
 |---|---|---|
-| 0 | Terminal, rutas, ayuda, tuberías y redirecciones | [Terminal](01-terminal-y-comandos.md) |
+| 0 | Terminal, rutas, ayuda, tuberías y redirecciones | [Terminal](01-terminal-y-comandos.md), [Búsqueda rápida](busqueda-rapida-comandos.md) |
 | 1 | Administración Linux y Windows | [Linux](03-linux-administracion.md), [Windows](04-windows-cmd-powershell.md) |
-| 2 | Redes, servicios, usuarios y permisos | [Redes](05-redes-servicios.md), [Usuarios](06-usuarios-permisos.md) |
-| 3 | Scripting con Bash, PowerShell y Python | [Scripting](02-fundamentos-scripting.md) |
+| 2 | Redes, servicios, usuarios y permisos | [Redes](05-redes-servicios.md), [Usuarios](06-usuarios-permisos.md), [Casos prácticos](casos-practicos.md) |
+| 3 | Scripting con Bash, PowerShell y Python | [Scripting](02-fundamentos-scripting.md), [Retos](retos-practicos.md) |
 | 4 | Backups, seguridad, bases de datos y directorios | [Backups](08-backups-almacenamiento.md), [Seguridad](09-seguridad-hardening.md), [Bases de datos](10-bases-datos.md), [AD/LDAP](20-active-directory-ldap.md) |
 | 5 | Git, Docker, monitorización, runbooks y Ansible | [Git](14-git-github.md), [Docker](15-docker-contenedores.md), [Monitorización](16-monitorizacion.md), [Ansible](18-ansible-iac.md) |
+
+---
+
+## Aprende por situación
+
+| Si necesitas... | Ve a... |
+|---|---|
+| Encontrar rápido un comando | [Búsqueda rápida de comandos](busqueda-rapida-comandos.md) |
+| Resolver una incidencia guiada | [Casos prácticos](casos-practicos.md) |
+| Practicar por niveles | [Retos prácticos](retos-practicos.md) |
+| Saber qué estudiar según tu rol | [Ejemplos por escenario](ejemplos-por-escenario.md) |
+| Preparar una clase o práctica | [Guía docente](guia-docente.md) |
+| Hacer una práctica integradora | [Proyecto final](proyecto-final-web.md) |
 
 ---
 
@@ -90,6 +119,6 @@ La web usa elementos desplegables, avisos, checklists y bloques de código copia
 
 Cuando hayas trabajado varios módulos, realiza el proyecto integrador:
 
-[Proyecto final de mantenimiento](../proyectos/proyecto-final-mantenimiento.md)
+[Proyecto final de mantenimiento](proyecto-final-web.md)
 
 Este proyecto une administración, red, servicios, logs, backups, seguridad y scripting.
