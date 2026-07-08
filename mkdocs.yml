@@ -38,6 +38,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.highlight
   - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Inicio: index.md
@@ -51,6 +54,7 @@ nav:
       - Casos prácticos guiados: casos-practicos.md
       - Retos prácticos graduados: retos-practicos.md
       - Ejemplos por escenario: ejemplos-por-escenario.md
+      - Abrir ejercicios en Script-Lab: ejercicios-script-lab.md
       - Abrir Script-Lab App: https://wolcenon.github.io/Script-Lab/
       - Cómo usar Script-Lab: script-lab.md
   - Fundamentos:
